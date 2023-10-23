@@ -1,0 +1,16 @@
+Método para Calcular o IMC
+
+Entradas:
+Peso da pessoa (peso) em quilogramas
+Altura da pessoa (altura) em metros
+
+Saída:
+Valor do IMC (imc)
+
+Passos:
+Calcule o IMC dividindo o peso pelo quadrado da altura:
+
+imc = peso / altura*altura
+
+Retorne o valor do IMC como saída:
+Retorna imc

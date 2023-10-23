@@ -1,0 +1,27 @@
+Método para Calcular Informações da Viagem
+
+Entradas:
+
+Quilometragem Inicial (km_inicial)
+Quilometragem Final (km_final)
+Quantidade de Litros Gastos (litros_gastos)
+Preço do Litro (preco_litro)
+
+Saídas:
+Distância Percorrida (distancia_percorrida)
+Consumo Médio (consumo_medio)
+Valor Gasto (valor_gasto)
+
+Passos:
+Calcular a distância percorrida:
+
+distancia_percorrida = km_final - km_inicial
+Calcular o consumo médio:
+
+consumo_medio = distancia_percorrida / litros_gastos
+Calcular o valor gasto:
+
+valor_gasto = litros_gastos * preco_litro
+Retornar as saídas calculadas:
+
+Retorna distancia_percorrida, consumo_medio e valor_gasto

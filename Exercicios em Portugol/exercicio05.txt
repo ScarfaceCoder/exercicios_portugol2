@@ -1,0 +1,22 @@
+Método para Calcular o Valor da Parcela
+
+Entradas:
+Valor da Compra (valor_compra)
+Quantidade de Parcelas (quantidade_parcelas)
+
+Saída:
+Valor da Parcela (valor_parcela)
+
+Passos:
+Calcular o valor do juro (5% do valor da compra) para compras parceladas.
+Juro = 0.05 * valor_compra
+
+Somar o valor do juro ao valor da compra para obter o valor total da compra parcelada.
+
+Valor Total = valor_compra + Juro
+Calcular o valor da parcela dividindo o valor total pelo número de parcelas.
+
+Valor da Parcela = Valor Total / quantidade_parcelas
+Retornar o valor da parcela calculado como saída:
+
+Retorna valor_parcela

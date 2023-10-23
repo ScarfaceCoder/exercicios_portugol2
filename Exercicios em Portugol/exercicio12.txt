@@ -1,0 +1,18 @@
+Método para Calcular o Valor Total em Reais em um Cofre
+
+Entradas:
+Quantidade de moedas de 25 centavos (vinteCinco)
+Quantidade de moedas de 10 centavos (dez)
+Quantidade de moedas de 5 centavos (cinco)
+
+Saída:
+Valor total em reais (valor_total_em_reais)
+
+Passos:
+
+Calcular o valor das moedas de 25 centavos em centavos (valor_vinteCinco) multiplicando vinteCinco por 25.
+Calcular o valor das moedas de 10 centavos em centavos (valor_dez) multiplicando dez por 10.
+Calcular o valor das moedas de 5 centavos em centavos (valor_cinco) multiplicando cinco por 5.
+Somar os valores calculados das moedas de 25 centavos, 10 centavos e 5 centavos para obter o valor total em centavos (valor_total_em_centavos).
+Converter o valor total em centavos para reais, dividindo por 100.
+Retornar o valor total em reais (valor_total_em_reais).

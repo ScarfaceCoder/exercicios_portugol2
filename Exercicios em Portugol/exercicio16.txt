@@ -1,0 +1,16 @@
+Método para Converter Valor em Reais para Dólar
+
+Entradas:
+Valor em Reais (valor_em_reais)
+Cotação do Dólar (cotacao_dolar)
+
+Saída:
+Valor em Dólar (valor_em_dolar)
+
+Passos:
+
+Divida o valor em reais pela cotação do dólar para obter o valor equivalente em dólar:
+valor_em_dolar = valor_em_reais/cotacao_dolar
+
+Retorne o valor em dólar como saída:
+Retorna (valor_em_dolar)

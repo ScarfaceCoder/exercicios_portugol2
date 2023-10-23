@@ -1,0 +1,17 @@
+Método para Calcular a Área de um Retângulo
+
+Entradas:
+Lado 1 (lado1)
+Lado 2 (lado2)
+
+Saída:
+
+Área do Retângulo (área)
+
+Passos:
+Calcular a área do retângulo multiplicando o valor do Lado 1 pelo valor do Lado 2.
+
+Área = Lado 1 * Lado 2
+
+Retornar a área calculada como saída:
+Retorna área
